@@ -85,7 +85,4 @@ pip install -r requirements.txt
 
 Made with `pytest.mark.rest_assured` by [Sharadrao Pawar](https://github.com/sharadraopawar)
 
-```
 
-
-```
